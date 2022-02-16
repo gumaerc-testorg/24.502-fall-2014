@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1b0e81ea-a89c-f2a2-02c4-1f4190662be8
 ---
@@ -282,7 +285,7 @@ Supervenience
 
 McPherson, Tristram. "Ethical Non-Naturalism and the Metaphysics of Supervenience." _Oxford Studies in Metaethics._ Vol. 7. Oxford University Press, 2012. ISBN: 9780199653508. \[Preview with [Google Books](http://books.google.com/books?id=0uEzMLqM_kgC&pg=PA205#v=onepage)\]
 
-Hills, Allison. "Supervenience and Moral Realism." In _Reduction - Abstraction - Analysis: Proceedings of the 31th International Ludwig Wittgenstein-symposium in Kirchberg, 2008_. Edited by Alexander Hieke and Hannes Leitgeb. De Gruyter, 2009, pp. 163–78. ISBN: 9783110328578.
+Hills, Allison. "Supervenience and Moral Realism." In _Reduction - Abstraction - Analysis: Proceedings of the 31{{< sup "th" >}} International Ludwig Wittgenstein-symposium in Kirchberg, 2008_. Edited by Alexander Hieke and Hannes Leitgeb. De Gruyter, 2009, pp. 163–78. ISBN: 9783110328578.
 
 ### Optional
 
