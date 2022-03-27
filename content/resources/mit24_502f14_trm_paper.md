@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 075d7c04-949e-052d-f233-5566ac2f7c8c
 resourcetype: Document
 title: 'Moral Language and Moral Discovery: Making Do Without Twin Earth'
 uid: ee29b762-6d2a-56a9-38aa-b7bd0b9d09c3
