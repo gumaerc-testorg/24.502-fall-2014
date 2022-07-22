@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and an example
+  of student work for the final paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 075d7c04-949e-052d-f233-5566ac2f7c8c
 ---
@@ -21,4 +26,4 @@ The only requirement for the final paper is that it should connect to the topics
 
 ### Sample Student Work
 
-["Moral Language and Moral Discovery: Making Do Without Twin Earth" (PDF)]({{< baseurl >}}/resources/mit24_502f14_trm_paper) (Courtesy of Daniel Muñoz. Used with permission.)
+{{% resource_link ee29b762-6d2a-56a9-38aa-b7bd0b9d09c3 "\"Moral Language and Moral Discovery: Making Do Without Twin Earth\" (PDF)" %}} (Courtesy of Daniel Muñoz. Used with permission.)
