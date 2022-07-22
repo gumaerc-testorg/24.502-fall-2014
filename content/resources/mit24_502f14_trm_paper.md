@@ -5,6 +5,7 @@ file: /courses/24-502-topics-in-metaphysics-and-ethics-fall-2014/ee29b7626d2a56a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Moral Language and Moral Discovery: Making Do Without Twin Earth'
 uid: ee29b762-6d2a-56a9-38aa-b7bd0b9d09c3
 ---
 Example of student work for the final paper of the course.
-
