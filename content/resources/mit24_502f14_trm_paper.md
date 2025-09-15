@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Example of student work for the final paper of the course.
-file: /courses/24-502-topics-in-metaphysics-and-ethics-fall-2014/ee29b7626d2a56a938aab7bd0b9d09c3_MIT24_502F14_Trm_Paper.pdf
+file: /ol-ocw-studio-app/courses/24-502-topics-in-metaphysics-and-ethics-fall-2014/ee29b7626d2a56a938aab7bd0b9d09c3_MIT24_502F14_Trm_Paper.pdf
+file_size: 148076
 file_type: application/pdf
 learning_resource_types:
 - Assignments
